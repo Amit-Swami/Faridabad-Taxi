@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "187103998239",
+    "firebase_url": "https://faridabadtaxi-88099.firebaseio.com",
+    "project_id": "faridabadtaxi-88099",
+    "storage_bucket": "faridabadtaxi-88099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187103998239:android:1daf9cf43c72a557",
+        "android_client_info": {
+          "package_name": "com.example.faridabadtaxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187103998239-iolbrm89pjhj54jjr8qdbrbakii3h315.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faridabadtaxidriver",
+            "certificate_hash": "a90e83de2b00d4da4bd1b6f75407dbb33325f6ca"
+          }
+        },
+        {
+          "client_id": "187103998239-2b2t5qdi38jb1li7rl3n6617f74sndqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dB5GvRj5ZeBHQ0r7umqwgYEijI5AV3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187103998239-2b2t5qdi38jb1li7rl3n6617f74sndqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187103998239:android:0e9ea40da5749435",
+        "android_client_info": {
+          "package_name": "com.example.faridabadtaxirider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187103998239-jur2d24225jsna2aupllf3adoqh48a1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faridabadtaxirider",
+            "certificate_hash": "a90e83de2b00d4da4bd1b6f75407dbb33325f6ca"
+          }
+        },
+        {
+          "client_id": "187103998239-2b2t5qdi38jb1li7rl3n6617f74sndqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dB5GvRj5ZeBHQ0r7umqwgYEijI5AV3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187103998239-2b2t5qdi38jb1li7rl3n6617f74sndqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
